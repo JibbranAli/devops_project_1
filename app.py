@@ -8,6 +8,6 @@ def lwinfo():
 
 @app.route("/phone")
 def lwphone():
-	return "9351009002"
+	return "93510099999"
 
 app.run(host="0.0.0.0")
